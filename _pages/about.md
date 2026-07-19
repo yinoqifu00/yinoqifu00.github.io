@@ -70,7 +70,7 @@ Code coming soon! <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:
 
 # 📖 Educations
 - *2021.09 - 2025.06*, B.E., School of Computer Science and Technology, South China University of Technology. 
-- *2025.09 - 2030.06(now)*, PhD, College of Computer Science and Artificial Intelligence, Fudan University. 
+- *2025.09 - 2030.06(now)*, PhD., College of Computer Science and Artificial Intelligence, Fudan University. 
 
 
 # 💻 Internships
