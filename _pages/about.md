@@ -44,14 +44,29 @@ My research interest includes World Model, 3D Generation and structured visual m
 
 [MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds](https://arxiv.org/abs/2508.14879)
 
-Bingquan Dai^\*, Li Ray Luo^\*, Qihong Tang, Jie Wang, **Xinyu Lian**, Hao Xu, Minghan Qin, Xudong Xu, Bo Dai, Haoqian Wang, Zhaoyang Lyu, Jiangmiao Pang
+Bingquan Dai\*, Li Ray Luo\*, Qihong Tang, Jie Wang, **Xinyu Lian**, Hao Xu, Minghan Qin, Xudong Xu, Bo Dai, Haoqian Wang, Zhaoyang Lyu, Jiangmiao Pang
 
 [**Code**](https://github.com/InternRobotics/MeshCoder) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Turning point cloud to shape code. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2026</div><img src='images/megaparts.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling
+
+Manwen Liao\*, **Xinyu Lian\***, Jian Mao*, Kaixu Chen, Li Luo, Jinghao Yan, Wanshui Gan, Qiao Yu, Weitian Zhang，Chunhua Shen, Guang Chen, Bo Dai, Xudong Xu, Zhaoyang Lyu
+
+Code coming soon! <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Part-aware 3D generation to 300 parts. 
+</div>
+</div>
+
+
+
+
+- More works regarding articulated object generation, artist mesh generation and scene-level real2sim is coming!
 
 # 📖 Educations
 - *2021.09 - 2025.06*, B.E., School of Computer Science and Technology, South China University of Technology. 
