@@ -23,8 +23,7 @@ My research interest includes World Model, 3D Generation and structured visual m
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.07*: &nbsp;🎉🎉 Our work MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling has been conditionally accepted to Siggraph Asia 2026. See you in Malaysia! 
 
 # 📝 Publications 
 
