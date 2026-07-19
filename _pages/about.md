@@ -66,7 +66,7 @@ Code coming soon! <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:
 
 
 
-- More works regarding articulated object generation, artist mesh generation and scene-level real2sim is coming!
+- More works regarding articulated object generation, artist mesh generation and scene-level real2sim are coming!
 
 # 📖 Educations
 - *2021.09 - 2025.06*, B.E., School of Computer Science and Technology, South China University of Technology. 
