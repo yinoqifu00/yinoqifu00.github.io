@@ -42,10 +42,6 @@ My research interest includes World Model, 3D Generation and structured visual m
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
 - *2021.09 - 2025.06*, B.E., School of Computer Science and Technology, South China University of Technology. 
 - *2025.09 - 2030.06(now)*, PhD, College of Computer Science and Artificial Intelligence, Fudan University. 
