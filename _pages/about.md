@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student (2025 Fall) at the College of Computer Science and Artificial Intelligence, Fudan University, advised by Prof. Bo Dai @ HKU and Prof. Dahua Lin @ CUHK. I am currently interning at Shanghai AI Lab, working on Generative Models for Embodied AI.
+I am a first-year Ph.D. student (2025 Fall) at the College of Computer Science and Artificial Intelligence, Fudan University, advised by [Prof. Bo Dai @ HKU](https://daibo.info/) and [Prof. Dahua Lin @ CUHK](https://www.ie.cuhk.edu.hk/faculty/lin-dahua/). I am currently interning at Shanghai AI Lab, working on Generative Models for Embodied AI.
 
 My research interest includes World Model, 3D Generation and structured visual modeling.
 
@@ -50,9 +50,6 @@ My research interest includes World Model, 3D Generation and structured visual m
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2024.10 till now*, [Shanghai AI Lab](https://github.com/), China.
+- *2024.10 till now*, [Shanghai AI Lab](https://www.shlab.org.cn/), China.
