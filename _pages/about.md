@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student (2025 Fall) at the College of Computer Science and Artificial Intelligence, Fudan University, advised by [Prof. Bo Dai @ HKU](https://daibo.info/) and [Prof. Dahua Lin @ CUHK](https://www.ie.cuhk.edu.hk/faculty/lin-dahua/). I am currently interning at Shanghai AI Lab, working on Generative Models for Embodied AI.
+I am a second-year Ph.D. student (2025 Fall) at the College of Computer Science and Artificial Intelligence, Fudan University, advised by [Prof. Bo Dai @ HKU](https://daibo.info/) and [Prof. Dahua Lin @ CUHK](https://www.ie.cuhk.edu.hk/faculty/lin-dahua/). I am currently interning at Shanghai AI Lab, working on Generative Models for Embodied AI.
 
 My research interest includes World Model, 3D Generation and structured visual modeling.
 
@@ -54,7 +54,7 @@ Bingquan Dai\*, Li Ray Luo\*, Qihong Tang, Jie Wang, **Xinyu Lian**, Hao Xu, Min
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2026</div><img src='images/megaparts.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling
+[MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling](https://arxiv.org/abs/2608.14783)
 
 Manwen Liao\*, **Xinyu Lian\***, Jian Mao*, Kaixu Chen, Li Luo, Jinghao Yan, Wanshui Gan, Qiao Yu, Weitian Zhang，Chunhua Shen, Guang Chen, Bo Dai, Xudong Xu, Zhaoyang Lyu
 
@@ -66,7 +66,8 @@ Code coming soon! <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:
 
 
 
-- More works regarding articulated object generation, artist mesh generation and scene-level real2sim are coming!
+
+- More works regarding artist mesh generation voxel neural renderer and scene-level real2sim are coming!
 
 # 📖 Educations
 - *2021.09 - 2025.06*, B.E., School of Computer Science and Technology, South China University of Technology. 
