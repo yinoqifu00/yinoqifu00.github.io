@@ -63,6 +63,17 @@ Code coming soon! <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='images/simready.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+From Parts to Sim: Bottom-up Autoregressive Generation of Sim-Ready 3D Assets
+
+**Xinyu Lian\***, Jian Mao\*, Wanshui Gan\*, Jinghao Yan, Kaixu Chen, Manwen Liao, Weipeng Zhong, Qiao Yu, Yunsong Zhou, Jiafei Cao, Chunhua Shen, Guang Chen, Bo Dai, Zhaoyang Lyu
+
+Code coming soon! <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Sim-Ready 3D assets generation.
+</div>
+</div>
 
 
 
@@ -75,4 +86,5 @@ Code coming soon! <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:
 
 
 # 💻 Internships
-- *2024.10 till now*, [Shanghai AI Lab](https://www.shlab.org.cn/), China.
+- *2024.10 till now*, [Shanghai AI Lab, Physical Intelligence Center](https://www.shlab.org.cn/), China.
+- *2026.09 till now*, [JD.com, Joy Future Academy](https://research.joyai.com/), China.
