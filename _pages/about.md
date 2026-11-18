@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student (2025 Fall) at the College of Computer Science and Artificial Intelligence, Fudan University, advised by [Prof. Bo Dai @ HKU](https://daibo.info/) and [Prof. Dahua Lin @ CUHK](https://www.ie.cuhk.edu.hk/faculty/lin-dahua/). I am currently interning at Shanghai AI Lab, working on Generative Models for Embodied AI.
+I am a second-year Ph.D. student (2025 Fall) at the College of Computer Science and Artificial Intelligence, Fudan University, advised by [Prof. Bo Dai @ HKU](https://daibo.info/) and [Prof. Dahua Lin @ CUHK](https://www.ie.cuhk.edu.hk/faculty/lin-dahua/). I am currently interning at Shanghai AI Lab and Joy Future Academy(JD.com), working on Generative Models for Embodied AI and Echo series.
 
 My research interest includes World Model, 3D Generation and structured visual modeling.
 
@@ -86,5 +86,5 @@ Code coming soon! <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:
 
 
 # 💻 Internships
-- *2024.10 till now*, [Shanghai AI Lab, Physical Intelligence Center](https://www.shlab.org.cn/), China.
-- *2026.09 till now*, [JD.com, Joy Future Academy](https://research.joyai.com/), China.
+- *2024.10 till now*, [Shanghai AI Lab, Physical Intelligence Center](https://www.shlab.org.cn/), China. Working with [Zhaoyang Lyu](https://zhaoyanglyu.github.io/)
+- *2026.09 till now*, [JD.com, Joy Future Academy](https://research.joyai.com/), China. Working with [Zeyue Xue](https://xuezeyue.github.io/)
