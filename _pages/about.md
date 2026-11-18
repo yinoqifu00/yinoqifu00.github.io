@@ -88,3 +88,7 @@ Code coming soon! <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:
 # 💻 Internships
 - *2024.10 till now*, [Shanghai AI Lab, Physical Intelligence Center](https://www.shlab.org.cn/), China. Working with [Zhaoyang Lyu](https://zhaoyanglyu.github.io/)
 - *2026.09 till now*, [JD.com, Joy Future Academy](https://research.joyai.com/), China. Working with [Zeyue Xue](https://xuezeyue.github.io/)
+
+# Wechat
+If you are interested in my work or have internship offers, welcome to connect with me via wechat:
+<div><div class="badge">Wechat</div><img src='images/20261118-230206.jpg' alt="sym" width="100%"></div>
