@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student (2025 Fall) at the College of Computer Science and Artificial Intelligence, Fudan University, advised by [Prof. Bo Dai @ HKU](https://daibo.info/) and [Prof. Dahua Lin @ CUHK](https://www.ie.cuhk.edu.hk/faculty/lin-dahua/). I am currently interning at Shanghai AI Lab and Joy Future Academy(JD.com), working on Generative Models for Embodied AI and Echo series.
+I am a second-year Ph.D. student (2025 Fall) at the College of Computer Science and Artificial Intelligence, Fudan University, advised by [Prof. Bo Dai @ HKU](https://daibo.info/) and [Prof. Dahua Lin @ CUHK](https://www.ie.cuhk.edu.hk/faculty/lin-dahua/). I am currently interning at [Shanghai AI Lab]((https://www.shlab.org.cn/)) and [Joy Future Academy(JD.com)](https://xuezeyue.github.io/), working on Generative Models for Embodied AI and Echo series.
 
 My research interest includes World Model, 3D Generation and structured visual modeling.
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 Our work MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling has been conditionally accepted to Siggraph Asia 2026. See you in Malaysia! 
+- *2026.07*: &nbsp;🎉🎉 Our work MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling has been accepted to Siggraph Asia 2026. See you in Malaysia! 
 
 # 📝 Publications 
 
